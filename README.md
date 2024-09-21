@@ -1,2 +1,4 @@
 # Paper-VideoPatchCore
-[ACCV 2024] PyTorch Implementation of the Paper 'VideoPatchCore': Official Version
+
+Our paper 'VideoPathCore: An Effective Method to Memorize Normality for Video Anomaly Detection' is accepted by ACCV 2024.
+The code will be opened soon!
