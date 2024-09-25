@@ -26,10 +26,10 @@ Currently, VAD is gaining attention with memory techniques that store the featur
 - Other common packages.
 
 ## Notes
-Visual Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Object Detector is based on [YOLOv5](https://pytorch.org/hub/ultralytics_yolov5/). Please click the link to download the package. Thanks to the authors for their great work. 
+Vision Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Object Detector is based on [YOLOv5](https://pytorch.org/hub/ultralytics_yolov5/). Please click the link to download the package. Thanks to the authors for their great work. 
 
 ## Datasets
-- First, enter the **path of the working directory** where the object, feature, and memory files will be stored in ```'work_dir```' of ```extra/config.py```.
+- First, input the **path of the working directory** where the object, feature, and memory files will be stored in ```'work_dir```' of ```extra/config.py```.
 - You can specify the dataset's path by editing ```'data_root'``` in ```extra/config.py```.
   
 |     CUHK Avenue    | Shnaghai Tech.    |IITB Corridor    |
@@ -58,7 +58,7 @@ python train.py --work_num=0 --dataset={dataset_name} --save_image_all=True
 ## Memorization and Inference
 - Enter the following command to perform memorization and inference.
 - **lf files** and **spatial & temporal memory banks** are saved in the ```l_features``` directory of the working directory.
-- **gf files** and **high-level semantic memory bank**are saved in the ```g_features``` directory of the working directory.
+- **gf files** and **high-level semantic memory bank** are saved in the ```g_features``` directory of the working directory.
 ```Shell
 # recommended option for avenue dataset 
 python run.py \
