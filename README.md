@@ -29,7 +29,7 @@ Currently, VAD is gaining attention with memory techniques that store the featur
 Vision Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Object Detector is based on [YOLOv5](https://pytorch.org/hub/ultralytics_yolov5/). Please click the link to download the package. Thanks to the authors for their great work. 
 
 ## Datasets
-- First, input the **path of the working directory** where the object, feature, and memory files will be stored in ```'work_dir```' of ```extra/config.py```.
+- First, input the **path** of the **working directory** where the **(objects, features, and memories)** files will be stored in ```'work_dir```' of ```extra/config.py```.
 - You can specify the dataset's path by editing ```'data_root'``` in ```extra/config.py```.
   
 |     CUHK Avenue    | Shnaghai Tech.    |IITB Corridor    |
