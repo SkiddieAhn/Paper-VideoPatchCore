@@ -39,7 +39,7 @@ Visual Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Obj
 ## Object Detection
 - You can input ```dataset_name``` as one of the following choices: **avenue**, **shanghai**, **iitb**.
 - We set the ```consecutive``` to **10** for avenue and **4** for shanghai and iitb.
-- **object file** is stored in the ```objects``` directory of the working directory.
+- **object files** are stored in the ```objects``` directory of the working directory.
 ```Shell
 # default option for object detection
 python train.py --work_num=0 --dataset={dataset_name}
@@ -57,8 +57,8 @@ python train.py --work_num=0 --dataset={dataset_name} --save_image_all=True
 
 ## Memorization and Inference
 - Enter the following command to perform memorization and inference.
-- **lf file** is stored in the ```l_features``` directory of the working directory.
-- **gf file** is stored in the ```g_features``` directory of the working directory.
+- **lf files** are stored in the ```l_features``` directory of the working directory.
+- **gf files** are stored in the ```g_features``` directory of the working directory.
 ```Shell
 # recommended option for avenue dataset 
 python run.py \
