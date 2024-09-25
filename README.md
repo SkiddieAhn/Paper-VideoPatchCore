@@ -42,17 +42,17 @@ Vision Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Obj
 - **object files** are saved in the ```objects``` directory of the working directory.
 ```Shell
 # default option for object detection
-python train.py --work_num=0 --dataset={dataset_name}
+python run.py --work_num=0 --dataset={dataset_name}
 # change number of input frames
-python train.py --work_num=0 --dataset={dataset_name} --consecutive=10
+python run.py --work_num=0 --dataset={dataset_name} --consecutive=10
 # save bounding box file
-python train.py --work_num=0 --dataset={dataset_name} --is_save_train_pickle=True --is_save_test_pickle=True
+python run.py --work_num=0 --dataset={dataset_name} --is_save_train_pickle=True --is_save_test_pickle=True
 # load bounding box and save object batches
-python train.py --work_num=0 --dataset={dataset_name} --is_load_train_pickle=True --is_load_test_pickle=True
+python run.py --work_num=0 --dataset={dataset_name} --is_load_train_pickle=True --is_load_test_pickle=True
 # save images with bounding boxes
-python train.py --work_num=0 --dataset={dataset_name} --save_image=True
+python run.py --work_num=0 --dataset={dataset_name} --save_image=True
 # save all detected object images
-python train.py --work_num=0 --dataset={dataset_name} --save_image_all=True 
+python run.py --work_num=0 --dataset={dataset_name} --save_image_all=True 
 ```
 
 ## Memorization and Inference
