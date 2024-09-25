@@ -8,7 +8,7 @@ This repository is the ```official open-source``` of [VideoPatchCore: An Effecti
 by Sunghyun Ahn, Youngwan Jo, Kijung Lee and Sanghyun Park.
 
 ## 📣 News
-* **[2024/09/20]** Our **VPC** paper has been published in ACCV 2024!
+* **[2024/09/20]** Our **VPC** paper has been accepted to ACCV 2024!
 
 ## Description
 Currently, VAD is gaining attention with memory techniques that store the features of normal frames. The stored features are utilized for frame reconstruction, identifying an abnormality when a significant difference exists between the
