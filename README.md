@@ -96,5 +96,20 @@ python run.py \
 |:------------------------:|:------------------------:|
 |[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Google Colab](https://colab.research.google.com/drive/1AuX7_f944_fcAA_4GPmutqqLMhOgBJUb?usp=sharing)|
 
+
+## Citation
+If you use our work, please consider citing:  
+```Shell
+@misc{ahn2024videopatchcoreeffectivemethodmemorize,
+      title={VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection},
+      author={Sunghyun Ahn and Youngwan Jo and Kijung Lee and Sanghyun Park},
+      year={2024},
+      eprint={2409.16225},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.16225},
+}
+```
+
 ## Contact
 Should you have any question, please create an issue on this repository or contact me at skd@yonsei.ac.kr.
