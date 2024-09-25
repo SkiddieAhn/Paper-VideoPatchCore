@@ -90,11 +90,11 @@ python run.py \
 
 ## Bounding box and Memory
 - The following is the working directory used for the experiments. This directory includes the **bounding box** and **memory** files.
-- We provide the **code** used for the experiments through ```jupyter notebook```.
+- We provide the **code** used for the experiments through ```Google Colab```.
 
 |     Working Directory    |  Experiment Code    | 
 |:------------------------:|:------------------------:|
-|[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Jupyter Notebook](https://github.com/SkiddieAhn/Paper-VideoPatchCore/blob/main/experiment_code.ipynb)|
+|[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Google Colab](https://colab.research.google.com/drive/1AuX7_f944_fcAA_4GPmutqqLMhOgBJUb?usp=sharing)|
 
 ## Contact
 Should you have any question, please create an issue on this repository or contact me at skd@yonsei.ac.kr.
