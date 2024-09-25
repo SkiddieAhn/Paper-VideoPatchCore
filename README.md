@@ -94,7 +94,7 @@ python run.py \
 
 |     Working Directory    |  Experiment Code    | 
 |:------------------------:|:------------------------:|
-|[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Jupyter Notebook](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|
+|[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Jupyter Notebook](https://github.com/SkiddieAhn/Paper-VideoPatchCore/blob/main/experiment_code.ipynb)|
 
 ## Contact
 Should you have any question, please create an issue on this repository or contact me at skd@yonsei.ac.kr.
