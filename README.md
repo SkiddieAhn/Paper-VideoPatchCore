@@ -37,6 +37,7 @@ Vision Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Obj
 |[Official Site](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)|[Official Site](https://svip-lab.github.io/dataset/campus_dataset.html)|[Official Site](https://github.com/Rodrigues-Royston/Multi-timescale_Trajectory_Prediction)|
 
 ## Object Detection
+- Navigate to the ```ObjectDetection``` directory and enter the following command.
 - You can input ```dataset_name``` as one of the following choices: **avenue**, **shanghai**, **iitb**.
 - We set the ```consecutive``` to **10** for avenue and **4** for shanghai and iitb.
 - **object files** are saved in the ```objects``` directory of the working directory.
@@ -56,6 +57,7 @@ python run.py --work_num=0 --dataset={dataset_name} --save_image_all=True
 ```
 
 ## Memorization and Inference
+- Navigate to the ```Memorization``` directory and enter the following command.
 - Enter the following command to perform memorization and inference.
 - **lf files** and **spatial & temporal memory banks** are saved in the ```l_features``` directory of the working directory.
 - **gf files** and **high-level semantic memory bank** are saved in the ```g_features``` directory of the working directory.
