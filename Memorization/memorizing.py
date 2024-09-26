@@ -102,7 +102,7 @@ class TemporalMemorizing:
                         v_ft = v_features[str(key)][:]
                         v_ft = torch.from_numpy(v_ft).to(self.device) # (obj, 64, ４, 28, 28)
                 
-                        # make sptaial features and move to memory bank
+                        # make temporal features and move to memory bank
                         if v_ft.dim() > 1:
                             temporal_feature = MakeTemporalFeature(v_ft) # (obj*d', 64)
                             one_temporal_memory_bank.append(temporal_feature)
@@ -166,7 +166,7 @@ class HighSemanticMemorizing:
                         v_ft = v_features[str(key)][:]
                         v_ft = torch.from_numpy(v_ft).to(self.device) 
                 
-                        # make sptaial features and move to memory bank
+                        # make high-level features and move to memory bank
                         if v_ft.dim() > 1:
                             highlevel_feature = MakeHighlevelFeature(feature=v_ft) 
                             one_highlevel_memory_bank.append(highlevel_feature)

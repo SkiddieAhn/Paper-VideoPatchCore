@@ -56,8 +56,8 @@ def MakeGloballyAwareFeature(feature_maps):
 
 def MakeHighlevelFeature(feature):
     '''
-    feature: (1, d, 1536)
-    output: (d, 1536)
+    feature: (1, 1536, 4)
+    output: (4, 1536)
     '''
 
     pool = nn.MaxPool1d(2, stride=1)
