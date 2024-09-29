@@ -103,14 +103,11 @@ python run.py \
 ## Citation
 If you use our work, please consider citing:  
 ```Shell
-@misc{ahn2024videopatchcoreeffectivemethodmemorize,
-      title={VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection},
-      author={Sunghyun Ahn and Youngwan Jo and Kijung Lee and Sanghyun Park},
-      year={2024},
-      eprint={2409.16225},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.16225},
+@article{ahn2024videopatchcore,
+  title={VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection},
+  author={Ahn, Sunghyun and Jo, Youngwan and Lee, Kijung and Park, Sanghyun},
+  journal={arXiv preprint arXiv:2409.16225},
+  year={2024}
 }
 ```
 
