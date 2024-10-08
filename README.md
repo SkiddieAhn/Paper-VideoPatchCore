@@ -103,7 +103,7 @@ python run.py \
 ## TODO  
 - [ ] Introduce the data preparation method
 - [x] Release object detection and memorization codes
-- [x] Release memory files and provided a colab page
+- [x] Release bounding box and memory files and provided a colab page
 
 ## Citation
 If you use our work, please consider citing:  
