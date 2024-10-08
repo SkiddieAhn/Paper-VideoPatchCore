@@ -100,6 +100,11 @@ python run.py \
 |[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Github Issue](https://github.com/SkiddieAhn/Paper-VideoPatchCore/issues/1)|[Google Colab](https://colab.research.google.com/drive/1AuX7_f944_fcAA_4GPmutqqLMhOgBJUb?usp=sharing)|
 
 
+## TODO  
+- [ ] Introduce the data preparation method
+- [x] Release object detection and memorization codes
+- [x] Release memory files and provided a colab page
+
 ## Citation
 If you use our work, please consider citing:  
 ```Shell
