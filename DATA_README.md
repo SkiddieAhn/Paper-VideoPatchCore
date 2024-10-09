@@ -38,7 +38,7 @@ avenue
 ```
 
 
-## 2. ShanghaiTech 
+## 2. ShanghaiTech Campus
 The dataset can be downloaded from the **official website [[Link](https://svip-lab.github.io/dataset/campus_dataset.html)]**. 
 However, there might be some differences in the directory structure compared to the dataset used in this project. You can set up our data directory environment using the download link provided below.
 
