@@ -29,7 +29,7 @@ Currently, VAD is gaining attention with memory techniques that store the featur
 Vision Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Object Detector is based on [YOLOv5](https://pytorch.org/hub/ultralytics_yolov5/). Please click the link to download the package. Thanks to the authors for their great work. 
 
 ## Datasets
-- First, input the **path** of the **working directory** where the **(objects, features, and memories)** files will be stored in ```'work_dir```' of ```extra/config.py```.
+- Please follow the [instructions](https://github.com/SkiddieAhn/Paper-VideoPatchCore/blob/main/DATA_README.md) to prepare the training and testing dataset.
 - You can specify the dataset's path by editing ```'data_root'``` in ```extra/config.py```.
   
 |     CUHK Avenue    | Shnaghai Tech.    |IITB Corridor    |
@@ -37,6 +37,7 @@ Vision Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Obj
 |[Official Site](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)|[Official Site](https://svip-lab.github.io/dataset/campus_dataset.html)|[Official Site](https://github.com/Rodrigues-Royston/Multi-timescale_Trajectory_Prediction)|
 
 ## Object Detection
+- Input the ```path``` of the working directory where the  object files  will be stored in ```'work_dir```' of ```ObjectDetection/extra/config.py```
 - Navigate to the ```ObjectDetection``` directory and enter the following command.
 - You can input ```dataset_name``` as one of the following choices: **avenue**, **shanghai**, **iitb**.
 - We set the ```consecutive``` to **10** for avenue and **4** for shanghai and iitb.
@@ -57,6 +58,7 @@ python run.py --work_num=0 --dataset={dataset_name} --save_image_all=True
 ```
 
 ## Memorization and Inference
+- Input the ```path``` used for Objec tDetection in ```'work_dir```' of ```Memorization/extra/config.py```
 - Navigate to the ```Memorization``` directory and enter the following command.
 - Enter the following command to perform memorization and inference.
 - **lf files** and **spatial & temporal memory banks** are saved in the ```l_features``` directory of the working directory.
