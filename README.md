@@ -35,7 +35,7 @@ Vision Encoder is based on [openai-clip](https://github.com/openai/CLIP) and Obj
   
 |     CUHK Avenue    | Shnaghai Tech.    |IITB Corridor    |
 |:------------------------:|:-----------:|:-----------:|
-|[Official Site](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)|[Official Site](https://svip-lab.github.io/dataset/campus_dataset.html)|[Official Site](https://github.com/Rodrigues-Royston/Multi-timescale_Trajectory_Prediction)|
+|[Official Site](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)|[Official Site](https://svip-lab.github.io/dataset/campus_dataset.html)|[Official Site](https://rodrigues-royston.github.io/Multi-timescale_Trajectory_Prediction/)|
 
 ## Object Detection
 - Input the ```path``` of the working directory where the  object files  will be stored in ```'work_dir```' of ```ObjectDetection/extra/config.py```
