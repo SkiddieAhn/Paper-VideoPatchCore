@@ -76,7 +76,7 @@ shanghai
 ```
 
 ## 3. IITB Corridor 
-The dataset can be downloaded from the **official website [[Link](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)]**. 
+The dataset can be downloaded from the **official website [[Link](https://rodrigues-royston.github.io/Multi-timescale_Trajectory_Prediction/)]**. 
 However, there might be some differences in the directory structure compared to the dataset used in this project.
 Therefore, please restructure the directories according to the structure below before running the experiments.
 
