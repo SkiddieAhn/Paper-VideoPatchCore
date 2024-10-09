@@ -8,8 +8,9 @@ This repository is the ```official open-source``` of [VideoPatchCore: An Effecti
 by Sunghyun Ahn, Youngwan Jo, Kijung Lee and Sanghyun Park.
 
 ## 📣 News
-* **[2024/09/25]** **VPC** codes & memories are released!
-* **[2024/09/20]** Our **VPC** paper has been accepted to ACCV 2024!
+* **[2024/10/09]** **Instructions for data preparation** are released!
+* **[2024/09/25]** Our **codes and memories** are released!
+* **[2024/09/20]** Our VPC paper has been accepted to **ACCV 2024**!
 
 ## Description
 Currently, VAD is gaining attention with memory techniques that store the features of normal frames. The stored features are utilized for frame reconstruction or prediction, identifying an abnormality when a significant difference exists between the generated and GT frames. However, this approach faces several challenges due to the simultaneous optimization required for both the memory and encoder-decoder model. These challenges include increased optimization difficulty, complexity of implementation, and performance variability depending on the memory size. **To address these challenges, we propose an effective memory method for VAD, called VideoPatchCore. Inspired by PatchCore, our approach introduces a structure that prioritizes memory optimization and configures three types of memory tailored to the characteristics of video data.** This method effectively addresses the limitations of existing memory-based methods, achieving good performance comparable to state-of-the-art methods.  
@@ -100,12 +101,6 @@ python run.py \
 |     Working Directory    |  Directory Structure    |   Experiment Code    | 
 |:------------------------:|:------------------------:|:------------------------:|
 |[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Github Issue](https://github.com/SkiddieAhn/Paper-VideoPatchCore/issues/1)|[Google Colab](https://colab.research.google.com/drive/1AuX7_f944_fcAA_4GPmutqqLMhOgBJUb?usp=sharing)|
-
-
-## TODO  
-- [ ] Introduce the data preparation method.
-- [x] Release object detection and memorization codes.
-- [x] Release bounding box and memory files and provided a colab page.
 
 ## Citation
 If you use our work, please consider citing:  
