@@ -6,7 +6,7 @@ Weixin Luo & Wen Liu [[SHTech](https://openaccess.thecvf.com/content_ICCV_2017/p
 and Royston Rodrigues [[Corridor](https://openaccess.thecvf.com/content_WACV_2020/papers/Rodrigues_Multi-timescale_Trajectory_Prediction_for_Abnormal_Human_Activity_Detection_WACV_2020_paper.pdf)]** for providing their datasets.
 
 ## 1. CUHK Avenue 
-The dataset can be downloaded from the official website [[Link](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)]. 
+The dataset can be downloaded from the **official website [[Link](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)]**. 
 However, there might be some differences in the directory structure compared to the dataset used in this project.
 
 |  File Name |  Download   |   
@@ -38,7 +38,7 @@ avenue
 
 
 ## 2. ShanghaiTech 
-The dataset can be downloaded from the official website [[Link](https://svip-lab.github.io/dataset/campus_dataset.html)]. 
+The dataset can be downloaded from the **official website [[Link](https://svip-lab.github.io/dataset/campus_dataset.html)]**. 
 However, there might be some differences in the directory structure compared to the dataset used in this project.
 
 |  File Name   |  Download   |   
@@ -76,7 +76,7 @@ shanghai
 ```
 
 ## 3. IITB Corridor 
-The dataset can be downloaded from the official website [[Link](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)]. 
+The dataset can be downloaded from the **official website [[Link](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html)]**. 
 However, there might be some differences in the directory structure compared to the dataset used in this project.
 Therefore, please restructure the directories according to the structure below before running the experiments.
 
