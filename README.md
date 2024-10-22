@@ -102,6 +102,14 @@ python run.py \
 |:------------------------:|:------------------------:|:------------------------:|
 |[Google Drive](https://drive.google.com/file/d/1d3JZzlThsKq4qsuHnUTPrxJ4o8HWV50F/view?usp=drive_link)|[Github README](https://github.com/SkiddieAhn/Paper-VideoPatchCore/blob/main/WORK_README.md)|[Google Colab](https://colab.research.google.com/drive/1AuX7_f944_fcAA_4GPmutqqLMhOgBJUb?usp=sharing)|
 
+
+## Demo
+|                       |Video   |Anomaly Score  |
+|:--------------:|:-----------:|:-----------:|
+| **Running** |![image](https://github.com/user-attachments/assets/805aed76-835c-4e1b-8fc0-90c6cc554cc5)|![image](https://github.com/user-attachments/assets/d98f9257-9f2f-45d7-b7e1-02207c6c8c05)|
+| **Throwing** |![image](https://github.com/user-attachments/assets/fb5f210e-1b88-435d-bb88-73fd8fc34614)|![image](https://github.com/user-attachments/assets/8d4d4ae4-8d5c-494c-b042-6e42436cb633)|
+
+
 ## Citation
 If you use our work, please consider citing:  
 ```Shell
