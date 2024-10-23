@@ -111,11 +111,10 @@ python run.py \
 - We achieved excellent video anomaly detection by leveraging **three memory components** effectively.
 
 
-|                       |Video   |Anomaly Score  |
-|:--------------:|:-----------:|:-----------:|
-| **Running** |![f1-1](https://github.com/user-attachments/assets/456b6c79-9daf-4c5b-90c4-6d873e0ec989)|![f1-2](https://github.com/user-attachments/assets/ca074252-bc56-42a1-bc4c-191ff8238f84)|
-| **Throwing a bag** |![f2-1](https://github.com/user-attachments/assets/db270a22-c048-4ef9-ada4-d97172c17a18)|![f2-2](https://github.com/user-attachments/assets/793f3b2d-33b8-437d-80b4-a2411902cc09)|
-| **Wrong direction** |![f3-1](https://github.com/user-attachments/assets/bd786622-856a-437e-890e-dbb1098b0b00)|![f3-2](https://github.com/user-attachments/assets/aba78810-b53a-42d3-bb03-f9fb8baf0d9d)|
+|                       |Demo  |
+|:--------------:|:-----------:|
+| **Running** |![A1](https://github.com/user-attachments/assets/ca45becb-adb0-414d-a18a-4f1f2c588e01)|
+| **Throwing a bag** |![A2](https://github.com/user-attachments/assets/0010b9fd-d5c9-4285-ac84-b8662126ff00)|
 
 
 ## Citation
