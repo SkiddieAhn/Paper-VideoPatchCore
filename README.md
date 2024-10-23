@@ -1,11 +1,15 @@
 # VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection (ACCV'24)
+
 [![arXiv](https://img.shields.io/badge/arXiv-<2409.16225>-<COLOR>.svg)](https://arxiv.org/abs/2409.16225)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videopatchcore-an-effective-method-to/video-anomaly-detection-on-cuhk-avenue)](https://paperswithcode.com/sota/video-anomaly-detection-on-cuhk-avenue?p=videopatchcore-an-effective-method-to)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videopatchcore-an-effective-method-to/video-anomaly-detection-on-iitb-corridor-1)](https://paperswithcode.com/sota/video-anomaly-detection-on-iitb-corridor-1?p=videopatchcore-an-effective-method-to)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videopatchcore-an-effective-method-to/video-anomaly-detection-on-shanghaitech-4)](https://paperswithcode.com/sota/video-anomaly-detection-on-shanghaitech-4?p=videopatchcore-an-effective-method-to)
+[![Project](https://img.shields.io/badge/Project-Website-87CEEB)](https://shacoding.com/2024/10/23/videopatchcore-an-effective-method-to-memorize-normality-for-video-anomaly-detection-accv-2024/)
+[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://shacoding.com/wp-content/uploads/2024/10/VideoPatchCore_ms_thesis.pdf)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videopatchcore-an-effective-method-to/video-anomaly-detection-on-cuhk-avenue)](https://paperswithcode.com/sota/video-anomaly-detection-on-cuhk-avenue?p=videopatchcore-an-effective-method-to)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videopatchcore-an-effective-method-to/video-anomaly-detection-on-iitb-corridor-1)](https://paperswithcode.com/sota/video-anomaly-detection-on-iitb-corridor-1?p=videopatchcore-an-effective-method-to)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videopatchcore-an-effective-method-to/video-anomaly-detection-on-shanghaitech-4)](https://paperswithcode.com/sota/video-anomaly-detection-on-shanghaitech-4?p=videopatchcore-an-effective-method-to)
 
 This repository is the ```official open-source``` of [VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection](https://arxiv.org/pdf/2409.16225)
 by Sunghyun Ahn, Youngwan Jo, Kijung Lee and Sanghyun Park.
+
+
 
 ## 📣 News
 * **[2024/10/09]** **Instructions for data preparation** are released!
