@@ -113,8 +113,10 @@ python run.py \
 
 |                       |Demo  |
 |:--------------:|:-----------:|
-| **Running** |![A1](https://github.com/user-attachments/assets/ca45becb-adb0-414d-a18a-4f1f2c588e01)|
-| **Throwing a bag** |![A2](https://github.com/user-attachments/assets/0010b9fd-d5c9-4285-ac84-b8662126ff00)|
+| **Running** |![c1](https://github.com/user-attachments/assets/a7fa27aa-9053-4742-b73c-bc6bf46d23dd)|
+| **Jumping** |![c2](https://github.com/user-attachments/assets/c244a8cb-a80f-4cb4-a72d-fe27f0a9e07c)|
+| **Throwing a bag** |![c3](https://github.com/user-attachments/assets/36a7787f-7467-427a-b8db-f6a99d500f35)|
+| **Wrong direction** |![c4](https://github.com/user-attachments/assets/5bea7bfe-ce3b-4eed-9628-c9345b65642c)|
 
 
 ## Citation
