@@ -65,7 +65,6 @@ python run.py --work_num=0 --dataset={dataset_name} --save_image_all=True
 ## Memorization and Inference
 - Input the ```path``` used for Object Detection in ```'work_dir```' of ```Memorization/extra/config.py```
 - Navigate to the ```Memorization``` directory and enter the following command.
-- Enter the following command to perform memorization and inference.
 - **lf files** and **spatial & temporal memory banks** are saved in the ```l_features``` directory of the working directory.
 - **gf files** and **high-level semantic memory bank** are saved in the ```g_features``` directory of the working directory.
 ```Shell
