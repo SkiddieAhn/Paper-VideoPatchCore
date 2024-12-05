@@ -121,11 +121,13 @@ python run.py \
 ## Citation
 If you use our work, please consider citing:  
 ```Shell
-@article{ahn2024videopatchcore,
-  title={VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection},
-  author={Ahn, Sunghyun and Jo, Youngwan and Lee, Kijung and Park, Sanghyun},
-  journal={arXiv preprint arXiv:2409.16225},
-  year={2024}
+@InProceedings{Ahn_2024_ACCV,
+    author    = {Ahn, Sunghyun and Jo, Youngwan and Lee, Kijung and Park, Sanghyun},
+    title     = {VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2024},
+    pages     = {2179-2195}
 }
 ```
 
