@@ -63,6 +63,21 @@ python run.py --work_num=0 --dataset={dataset_name} --save_image=True
 python run.py --work_num=0 --dataset={dataset_name} --save_image_all=True 
 ```
 
+```Shell
+# recommended option for avenue dataset (w/o pickle)
+python run.py --work_num=0 --dataset=avenue --consecutive=10 
+# recommended option for shanghai dataset (w/o pickle)
+python run.py --work_num=0 --dataset=shanghai --consecutive=4 
+# recommended option for iitb dataset (w/o pickle)
+python run.py --work_num=0 --dataset=iitb --consecutive=4 
+# recommended option for avenue dataset (w/ pickle)
+python run.py --work_num=0 --dataset=avenue --consecutive=10 --is_load_test_pickle=True
+# recommended option for shanghai dataset (w/ pickle)
+python run.py --work_num=0 --dataset=shanghai --consecutive=4 --is_load_test_pickle=True
+# recommended option for iitb dataset (w/ pickle)
+python run.py --work_num=0 --dataset=iitb --consecutive=4 --is_load_test_pickle=True
+```
+
 ## Memorization and Inference
 - Input the ```path``` used for Object Detection in ```'work_dir```' of ```Memorization/extra/config.py```
 - Navigate to the ```Memorization``` directory and enter the following command.
