@@ -69,7 +69,8 @@ python run.py --work_num=0 --dataset=avenue --consecutive=10
 # recommended option for shanghai dataset (w/o pickle)
 python run.py --work_num=0 --dataset=shanghai --consecutive=4 
 # recommended option for iitb dataset (w/o pickle)
-python run.py --work_num=0 --dataset=iitb --consecutive=4 
+python run.py --work_num=0 --dataset=iitb --consecutive=4
+
 # recommended option for avenue dataset (w/ pickle)
 python run.py --work_num=0 --dataset=avenue --consecutive=10 --is_load_test_pickle=True
 # recommended option for shanghai dataset (w/ pickle)
