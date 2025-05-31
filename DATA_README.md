@@ -12,7 +12,7 @@ You can set up our environment using the download link provided below.
 
 |  File Name |  Download   |   
 |:-----------|:-----------|
-|avenue.zip| [Google Drive](https://drive.google.com/file/d/1maU_c4SkCidJnq1P3QZD5QZB2BFCEEij/view?usp=sharing)     |
+|avenue.zip| [Google Drive](https://drive.google.com/file/d/1NAywhOM7j0Q7kIOx_hJKY8ocpX3-a14F/view?usp=sharing)     |
 
 ```
 avenue
@@ -51,7 +51,7 @@ However, there might be some differences in the directory structure compared to 
 |shanghai.vol5.egg| [Naver Mybox](http://naver.me/5tJ9D4xS)     |
 |shanghai.vol6.egg| [Naver Mybox](http://naver.me/GgW39uKE)     |
 |shanghai.vol7.egg| [Naver Mybox](http://naver.me/IItIHfp8)     |
-|shanghai.vol8.egg| [Google Drive](https://drive.google.com/file/d/138-N0UbkZMSeU3gg7jzPd41jmpxqtv5Y/view?usp=sharing)     |
+|shanghai.vol8.egg| [Google Drive](https://drive.google.com/file/d/11hmfMswhI2k_NfF0LwqnVvit0rKzFEqp/view?usp=sharing)     |
 ```
 shanghai
 ├── testing
