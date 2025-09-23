@@ -1,4 +1,4 @@
-# VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection (ACCV'24)
+# VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection (ACCV 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2409.16225-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2409.16225)
 [![CvF](https://img.shields.io/badge/CvF-Website-DO9874)](https://openaccess.thecvf.com/content/ACCV2024/html/Ahn_VideoPatchCore_An_Effective_Method_to_Memorize_Normality_for_Video_Anomaly_ACCV_2024_paper.html)
